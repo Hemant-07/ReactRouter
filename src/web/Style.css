@@ -1,0 +1,19 @@
+.Header ul{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid burlywood;
+    
+}
+ 
+ a  {
+  
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(212, 125, 44);
+}
+li{
+    list-style-type: none;
+    color: black;
+}
